@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "84707838428",
+    "project_id": "psg-4489",
+    "storage_bucket": "psg-4489.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:84707838428:android:708a90919126eeb91be719",
+        "android_client_info": {
+          "package_name": "com.notification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "84707838428-f19lscf5ja6gaokqimsci9itu7aprmuc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvEKBhk7R3fwAJcNylbo1Y4o__b--75jk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "84707838428-f19lscf5ja6gaokqimsci9itu7aprmuc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
